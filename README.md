@@ -1,5 +1,5 @@
-# soup_for_our_family
-Soup For Our Family is an open source, mutual aid approach to feeding Americans in the wake of the SNAP crisis.
+# soup_for_our_families
+Soup For Our Families is an open source, mutual aid approach to feeding Americans in the wake of the SNAP crisis.
 
 ## Overview
 
@@ -22,7 +22,7 @@ Here at Pollitify, we are activists and rather than just protest the administrat
 
 ## Why Can't You Ship Me All the Ingredients?
 
-Soup Four Our Family is a mutual aid approach to solving the food problem we are currently facing.  Mutual Aid isn't about dependency.  Our goal is to blaze a path and show a way forward.  We want engagement and committment and part of that is allowing everyone to be a part of this.
+Soup Four Our Families is a mutual aid approach to solving the food problem we are currently facing.  Mutual Aid isn't about dependency.  Our goal is to blaze a path and show a way forward.  We want engagement and committment and part of that is allowing everyone to be a part of this.
 
 ## What is Open Source?
 
@@ -34,7 +34,7 @@ Part of Mutual Aid is transparency.  We want to make our approach to this utterl
 
 ## What is the Budget Behind This?
 
-The Soup For Our Family program is a grant program offered by Pollitify, a software development company focused on tools for activists and organizers.  We have set aside $24,000 from our 1st year budget to enable 60 home cooks to feed people.  
+The Soup For Our Families program is a grant program offered by Pollitify, a software development company focused on tools for activists and organizers.  We have set aside $24,000 from our 1st year budget to enable 60 home cooks to feed people
 
 ## How Can 60 Home Cooks Make a Difference?
 
